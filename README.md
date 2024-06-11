@@ -1,4 +1,4 @@
-# GUJCOST Project - Autonomous Planetary Rover
+# Planetary Rover
 
 ## Project Overview
 
