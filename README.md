@@ -1,4 +1,4 @@
-# Planetary Rover
+# Space Rover
 
 ## Project Overview
 
@@ -25,13 +25,13 @@ This project involves the development of an autonomous planetary rover using the
 10. [Errors Encountered](#errors-encountered)
 11. [Bibliography](#bibliography)
 
-## Dual Booting
+## 1. Dual Booting
 
 - **Setup**: Installed Ubuntu 20.04 alongside an existing operating system (typically Windows) to enable a dual-boot configuration.
 - **Tools Used**: Used Rufus 4.1 for creating a bootable USB drive with the Ubuntu installation ISO.
 - **Purpose**: This setup was necessary to run ROS (Robot Operating System) which is best supported on Ubuntu.
 
-## ROS Installation and Terminologies
+## 2. ROS Installation and Terminologies
 
 - **Installation**: Followed official ROS Noetic installation guidelines for Ubuntu 20.04, setting up the environment with essential packages and dependencies.
 - **Key Concepts**:
@@ -40,7 +40,7 @@ This project involves the development of an autonomous planetary rover using the
   - **Packages**: Collections of nodes, data, and configuration files.
   - **Workspaces**: Directories where ROS packages are stored and managed.
 
-## ROS Commands
+## 3. ROS Commands
 
 - **Basic Commands**:
   - `roscore`: Starts the ROS master, which coordinates communication between nodes.
